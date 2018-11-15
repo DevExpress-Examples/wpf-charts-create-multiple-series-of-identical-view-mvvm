@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/SeriesItemTemplateSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SeriesItemTemplateSample/MainWindow.xaml))**
+* [GdpSeries.cs](./CS/SeriesItemTemplateSample/Model/GdpSeries.cs) (VB: [GdpSeries.vb](./VB/SeriesItemTemplateSample/Model/GdpSeries.vb))
+* [ChartViewModel.cs](./CS/SeriesItemTemplateSample/ViewModel/ChartViewModel.cs) (VB: [ChartViewModel.vb](./VB/SeriesItemTemplateSample/ViewModel/ChartViewModel.vb))
+<!-- default file list end -->
 # How to generate Series of identical view types using the MVVM binding style
 
 
