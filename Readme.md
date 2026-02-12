@@ -29,7 +29,7 @@ To do this, specify the diagram's [SeriesItemsSource](https://docs.devexpress.c
 * [How to Bind a Chart to Its View Model](https://github.com/DevExpress-Examples/how-to-bind-a-chart-to-its-viewmodel-t541777)
 * [How to generate Series of different view types using the MVVM binding style](https://github.com/DevExpress-Examples/how-to-generate-series-of-different-view-types-using-the-mvvm-binding-style-t500832)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-multiple-series-of-identical-view-mvvm&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-charts-create-multiple-series-of-identical-view-mvvm&~~~was_helpful=no)
 
